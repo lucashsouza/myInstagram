@@ -72,3 +72,9 @@
 .profile-desc {
     font-size: 16x;
 }
+
+.stories {
+    text-align: center;
+    font-size: 15px;
+    font-weight: 600;
+}
